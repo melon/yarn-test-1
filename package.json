@@ -1,6 +1,6 @@
 {
   "name": "yarn-test-1",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/melon/yarn-test-1#readme",
   "dependencies": {
-    "eslint": "^1.10.3"
+    "eslint": "^1.10.3",
+    "eslint-loader": "^1.2.1"
   }
 }
